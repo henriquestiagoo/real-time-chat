@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>675328433760-o8bini8fu2o5u1796gmrt5h37nlvc0lf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.675328433760-o8bini8fu2o5u1796gmrt5h37nlvc0lf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALf1-29z0NcPRxwi3s7u-U6a7WPhVIIkk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>675328433760</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>net.telliott.rwchitchat</string>
+	<key>PROJECT_ID</key>
+	<string>real-time-chat-faacd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>real-time-chat-faacd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:675328433760:ios:4e1e1dece3a6738c</string>
+	<key>DATABASE_URL</key>
+	<string>https://real-time-chat-faacd.firebaseio.com</string>
+</dict>
+</plist>
